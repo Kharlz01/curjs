@@ -7,3 +7,9 @@ if (edad===18) {
 } else {
     console.log("Tu no puedes votar")
 }
+
+// condition ? true : false;
+
+var numero = 1;
+
+var igual = numero === 1 ? "Es un uno" : "No es uno";
