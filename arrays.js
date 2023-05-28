@@ -6,7 +6,7 @@ console.log(frutas);
 
 var masFrutas = frutas.push("Uvas");
 
-// Elimina elementos
+// Elimina elementos de la ultima posición
 
 var ultimo = frutas.pop("Uvas");
 
